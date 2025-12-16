@@ -1,0 +1,3 @@
+/home/heisenberg/exercise/12chat/charClient/builder/CMakeFiles/chatClient.dir
+/home/heisenberg/exercise/12chat/charClient/builder/CMakeFiles/edit_cache.dir
+/home/heisenberg/exercise/12chat/charClient/builder/CMakeFiles/rebuild_cache.dir
