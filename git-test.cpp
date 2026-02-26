@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int score = 101;
+
+    int score = 1000;
+
 }
