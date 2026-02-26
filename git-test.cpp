@@ -4,4 +4,5 @@ int main(){
 
     int score = 1000;
     printf("Hello PR!");
+    cout << "Gread";
 }
